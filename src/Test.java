@@ -4,7 +4,13 @@
 public class Test {
     //程序的入口
     public static void main(String[] args) {
-        //打印输出oksss
+        //打印输出ok
+        //打印输出ok
+        System.out.println("okokok");
+        System.out.println("21");
+        System.out.println("okokok");
+        System.out.println("21");
+        System.out.println("okokok");
         System.out.println("ok");
     }
 }
