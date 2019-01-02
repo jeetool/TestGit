@@ -7,5 +7,9 @@ public class Test {
         //打印输出ok
         System.out.println("okokok");
         System.out.println("21");
+        System.out.println("okokok");
+        System.out.println("21");
+        System.out.println("okokok");
+        System.out.println("21");
     }
 }
